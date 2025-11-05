@@ -1,1 +1,6 @@
-Sample training data for comprehension model.
+text,label
+"I've been dizzy and have a mild fever for two days.",symptom_query
+"My throat hurts and I have a headache since yesterday.",symptom_query
+"What should I take for my headache?",medication_query
+"I need to book an appointment with my doctor.",appointment_request
+"How do I prevent colds?",general_question
