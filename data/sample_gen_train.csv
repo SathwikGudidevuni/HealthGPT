@@ -1,1 +1,3 @@
-Sample training data for generation model.
+input_text,target_text
+"User intent: symptom_query\nUser text: I've been dizzy and have a mild fever for two days.", "It sounds like you may have a mild viral illness or dehydration. Rest, stay hydrated, and monitor your symptoms. If fever persists beyond 48 hours or symptoms worsen, seek medical care. I am not a doctor."
+"User intent: symptom_query\nUser text: My throat hurts and I have a headache since yesterday.", "This may be a mild throat infection or viral illness. Use rest, fluids, and saltwater gargles for throat pain. If symptoms worsen or fever increases, see a healthcare provider."
